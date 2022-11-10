@@ -1,0 +1,7 @@
+{
+  "user": "creds",
+  "password": "creds",
+  "host": "host",
+  "database": "dbname",
+  "port": 1111
+}
